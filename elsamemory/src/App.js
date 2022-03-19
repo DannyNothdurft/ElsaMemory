@@ -13,6 +13,8 @@ const cardImages = [
   { "src": "/img/motiv8.png", matched: false },
   { "src": "/img/motiv9.png", matched: false },
   { "src": "/img/motiv10.png", matched: false },
+  { "src": "/img/motiv11.png", matched: false },
+  { "src": "/img/motiv12.png", matched: false },
 ]
 
 function App() {
